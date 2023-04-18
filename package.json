@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cookieparser": "^0.1.0",
+    "date-fns": "^2.29.3",
+    "google-map-react": "^2.2.0",
+    "javascript-time-ago": "^2.5.9",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "react-google-maps": "^9.4.5",
+    "react-time-ago": "^7.2.1"
+  }
+}
